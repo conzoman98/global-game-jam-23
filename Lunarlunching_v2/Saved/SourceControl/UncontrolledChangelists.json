@@ -4,7 +4,14 @@
 		{
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
-			"files": []
+			"files": [
+				"C:/Users/pangh/Documents/Unreal Projects/Lunar Luncheon/lunar-luncheon/Lunarlunching_v2/Content/Lunar/Props/SM_Tray_001.uasset",
+				"C:/Users/pangh/Documents/Unreal Projects/Lunar Luncheon/lunar-luncheon/Lunarlunching_v2/Content/Lunar/LunarLunch.umap",
+				"C:/Users/pangh/Documents/Unreal Projects/Lunar Luncheon/lunar-luncheon/Lunarlunching_v2/Content/Blueprints/Tray.uasset",
+				"C:/Users/pangh/Documents/Unreal Projects/Lunar Luncheon/lunar-luncheon/Lunarlunching_v2/Content/Tray.uasset",
+				"C:/Users/pangh/Documents/Unreal Projects/Lunar Luncheon/lunar-luncheon/Lunarlunching_v2/Content/Blueprints/ReceiverInterface.uasset",
+				"C:/Users/pangh/Documents/Unreal Projects/Lunar Luncheon/lunar-luncheon/Lunarlunching_v2/Content/Lunar/Props/ORD_ANOORD_ANO.uasset"
+			]
 		}
 	]
 }
