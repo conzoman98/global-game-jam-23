@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Lunarlunching_v2.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Lunarlunching_v2.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Lunarlunching_v2Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Lunarlunching_v2">
+      <UniqueIdentifier>{7CD21A88-03D4-35BB-AB65-8A09B083012F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Lunarlunching_v2\Lunarlunching_v2.Build.cs">
+      <Filter>Source\Lunarlunching_v2</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Lunarlunching_v2\Lunarlunching_v2.cpp">
+      <Filter>Source\Lunarlunching_v2</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Lunarlunching_v2\Lunarlunching_v2.h">
+      <Filter>Source\Lunarlunching_v2</Filter>
+    </ClInclude>
+    <Filter Include="Source\Lunarlunching_v2\Private">
+      <UniqueIdentifier>{38D65EC6-7C46-31D3-830C-EBCB08E0748B}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Lunarlunching_v2\Private\MyBlueprintFunctionLibrary_Gvty.cpp">
+      <Filter>Source\Lunarlunching_v2\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Lunarlunching_v2\Private\MyWorldSettings.cpp">
+      <Filter>Source\Lunarlunching_v2\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\Lunarlunching_v2\Public">
+      <UniqueIdentifier>{75938BE2-07CE-3516-A953-4C27E23932B5}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Lunarlunching_v2\Public\MyBlueprintFunctionLibrary_Gvty.h">
+      <Filter>Source\Lunarlunching_v2\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Lunarlunching_v2\Public\MyWorldSettings.h">
+      <Filter>Source\Lunarlunching_v2\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
